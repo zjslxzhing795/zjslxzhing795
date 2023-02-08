@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Grace's github stats](https://github.com/zjslxzhing795/github-readme-stats)
-
 [![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=zjslxzhing795)]()
